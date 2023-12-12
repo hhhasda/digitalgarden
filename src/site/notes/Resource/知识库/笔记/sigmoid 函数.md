@@ -1,7 +1,9 @@
 ---
-{"tags":["卡片笔记"],"dg-publish":true,"permalink":"/Resource/知识库/笔记/sigmoid 函数/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Resource/知识库/笔记/sigmoid 函数/"}
 ---
 
+
+#卡片笔记
 
 # 1 定义
 
@@ -17,7 +19,7 @@ Sigmoid 函数是有界、可微、实数函数，对所有实数输入值都有
 > 还记得高中生物的种群数量“S”型曲线吗？那就是一个 logistic 函数😎
 
 
-![Pasted image 20231114155927.png](/img/user/00%20Archive%EF%BC%88%E4%B8%B4%E6%97%B6%E6%96%87%E4%BB%B6%EF%BC%89/Pasted%20image%2020231114155927.png)
+![Pasted image 20231114155927.png](/img/user/Resource/%E5%9B%BE%E7%89%87%E5%BA%93/Pasted%20image%2020231114155927.png)
 
 # 2 作用
 
