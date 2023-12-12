@@ -18,6 +18,3 @@
 > [!tip]
 > 这里面可以看到各个分账户![006B47CE.png](/img/user/00%20Archive%EF%BC%88%E4%B8%B4%E6%97%B6%E6%96%87%E4%BB%B6%EF%BC%89/006B47CE.png)
 
-查找与筛选：[[Resource/bill/1\|链接]] 。
-> [!tip] 使用说明： 
-
